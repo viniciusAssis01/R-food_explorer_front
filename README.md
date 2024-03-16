@@ -45,7 +45,7 @@ Tecnologias utilizadas:
 ## Uso
 
 aplicação
-[Food Explorer](https://front-five-opal.vercel.app/).
+[Food Explorer](rocket-food-explorer.netlify.app).
 
 Para executar o projeto em sua maquina localmente. Certifique-se de ter o `Node.js` e o `npm` instalados antes de prosseguir com as etapas alencadas:
 
