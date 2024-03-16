@@ -23,7 +23,7 @@ function AuthProvider({ children }) {
 			if (error.response) {
 				alert(error.response.data.message);
 			} else {
-				alert("Não foi possivel entrar");
+				alert("Não foi possível entrar");
 			}
 		}
 	}
